@@ -42,7 +42,7 @@ HIP offers several benefits over OpenCL:
 - HIP offers an offline compilation model.
 
 ### What hardware does HIP support?
-- For AMD platforms, HIP runs on the same hardware that the HCC "hc" mode supports---specifically AMD Kaveri, Carrizo and Fiji. For Nvidia platforms, it should run on a device that uses the Cuda SDK 5.0 or newer. We have tested the Nvidia Titan and K40.
+- For AMD platforms, HIP runs on the same hardware that the HCC "hc" mode supports---specifically AMD Kaveri, Carrizo and Fiji.
 - For NVIDIA platform, HIP should run on an device which runs the CUDA SDK 5.0 or newer.  We have tested nvidia Titan and K40.
 
 ### Does Hipify automatically convert all source code?
